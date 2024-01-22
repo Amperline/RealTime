@@ -128,7 +128,7 @@ int main()
         }
         else
         {
-            mainStr = "ERROR \n\n\n   Amperline";
+            mainStr = "Network\nError \n\n   Amperline";
         }
 
         text3.setString(timezone);
